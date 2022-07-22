@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nazarov555
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on any project related to C#
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on any project related to React or Vue.js
 - 📫 How to reach me +79644210500
 
 <!---
